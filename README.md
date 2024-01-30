@@ -6,4 +6,4 @@ The article I chose discusses the use of AI in automation and how it can be used
 It is interesting to see how AI can be applied to many different industries to lower costs and increase efficiency. 
 
 #### Neal's comment
-This is a very useful and informative article on how AI can be safely implemented in business contexts, although I feel like it should go into greater detail of how to make sure employers do not use AI to automate every task that a human can do to the point of cutting jobs, or how to make them see the importance of human cooperation in any processes where AI automation can be a useful tool.
+This is a very useful and informative article on how AI can be safely implemented in business contexts, although I feel like it should go into greater detail of how to make sure employers do not use AI to automate every task that a human can do to the point of cutting jobs, or how to make them see the importance of human cooperation in any processes where AI automation can be a helpful tool.
